@@ -1,6 +1,6 @@
 ﻿---
-name: "knowledge-base-curator"
-description: "Automates the full knowledge base workflow: ingesting raw materials, extracting concepts, deduplicating (rule 6), project archiving, and maintaining index/log files per AGENTS.md. Invoke when user asks for knowledge organization, material processing, project archiving, deduplication, content curation, or any knowledge base maintenance task."
+name: knowledge-base-curator
+description: 'Automates the full knowledge base workflow: ingesting raw materials, extracting concepts, deduplicating (rule 6), project archiving, and maintaining index/log files per AGENTS.md. Invoke when user asks for knowledge organization, material processing, project archiving, deduplication, content curation, or any knowledge base maintenance task.'
 metadata:
   short-description: 自动化知识库管理：素材入库、项目归档、查重合并、增量维护
 ---
@@ -1018,6 +1018,8 @@ powershell -File tools/link-check.ps1 -WikiPath "wiki"
 ---
 
 > 善用工具，让知识管理更高效。
+
+
 
 
 
