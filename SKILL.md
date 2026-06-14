@@ -1,4 +1,4 @@
-﻿---
+---
 name: "knowledge-base-curator"
 description: "Automates the full knowledge base workflow: ingesting raw materials, extracting concepts, deduplicating (rule 6), project archiving, and maintaining index/log files per AGENTS.md. Invoke when user asks for knowledge organization, material processing, project archiving, deduplication, content curation, or any knowledge base maintenance task."
 metadata:
